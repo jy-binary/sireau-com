@@ -1,0 +1,2336 @@
+@media screen and (min-width: 1440px){
+     .rec-founder{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1370px;
+     }
+}
+
+/***************iPhone Portrait**************/
+
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+    html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.home-banner{
+        background-image: url(../images/home-resp.png);
+    }
+    .navigation-head{
+        padding-left:0px;
+        padding-right: 0px;
+    }
+    .navbar-brand img{
+        width: 165px;
+    }
+    .apply-btn{
+        display: contents;
+    }
+    .navbar-toggler{
+        padding: 0px;
+    }
+    .apply{
+        width: 90px;
+        height: 35px;
+    }
+    .apply-resp{
+        display: none;
+    }
+    .home-img{
+        height:112px;
+    }
+    .home-ban h4{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .home-ban h2{
+        font-size: 45px;
+        line-height: 55px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .home-ban p{
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+    .mission-vision h2{
+        font-size: 30px;
+    }
+    .vision{
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+    .mission-vision p{
+        font-size: 18px;
+        width: 100%;
+        line-height: 28px;
+    }
+    .ground-head h2{
+        font-size: 24px;
+        line-height: 34px;
+        width: 100%;
+    }
+    .ground-head{
+        padding-top: 63px;
+        padding-bottom: 26px;
+    }
+    .count-img{
+        width: 80px;
+        height: 70px;
+        margin-top: 27px;
+    }
+    .navigation-head a{
+        line-height: 25px;
+    }
+    .cnt-count{
+        display: unset;
+        margin-top:27px;
+    }
+    .cnt-four h4{
+        margin-top: 10px;
+    }
+    .count-therapy p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .count-therapy{
+        align-items: unset;
+        padding-bottom: 0px;
+    }
+    .count:before{
+        left: 35px;
+        top: 84px;
+    }
+    .tech{
+        padding-bottom: 42px;
+    }
+    .count{
+        padding-top: 0px;
+    }
+    .nick h2{
+        font-size: 19px;
+        line-height: 29px;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .ground{
+        padding-bottom: 50px;
+    }
+    .navbar-nav.ml-auto{
+        margin-top: 35px;
+    }
+    .research-head h2{
+        font-size: 36px;
+        line-height: 42px;
+        width: 100%;    
+    }
+    .research{
+        height: 610px;
+    }
+    .btn-basic{
+        margin-top: 4px;
+    }
+    .research-head{
+        margin-top: 86px;
+    }
+    .upward{
+        margin-top: -84px;
+        padding-bottom: 53px;    
+    }
+    .first-sect{
+        margin-left: 25px;
+        margin-right: 25px;
+        padding-left: 28px;
+    }
+    .upward p{
+        width: 100%;
+    }
+    .second-sect{
+        margin-left: 25px;
+        margin-right: 25px;
+        padding-left: 28px;
+        margin-top: 25px;
+    }
+    .nick a::before{
+      display: none;
+    }
+    .nick a{
+        border-bottom: 1px solid #50ab98;
+    }
+    .nick a::after{
+        content: url(../images/nick-mail.png);
+    }
+    .footer-full{
+        height: auto;
+        background-position: 96% 50%;
+    }
+    .foot{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .innovation{
+        height: 680px;
+        align-items:unset;
+    }
+    .footer-one{
+        padding-top: 43px;
+        padding-bottom: 34px;
+    }
+    .dev h3{
+        width: 100%;
+        font-size: 29px;
+        line-height: 31px;
+    }
+  
+    .about{
+        height: 558px;
+    }
+    .about-head h2{
+        font-size: 55px;
+    }
+    .founder-head h3{
+        padding-top: 42px;    
+        font-size: 47px;
+    }
+    .founder-head h3:after{
+        right: 14%;
+        top: 49px;
+    }
+    .found-rec{
+        flex-direction: column-reverse;
+    }
+    .about-img{
+        width: 100%;
+    }
+    .ceo{
+        padding-top: 30px;
+        margin-left: 0px;
+    }
+    .found-sec{
+        padding-top: 39px;
+        padding-bottom: 55px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .advisor-head h3{
+        margin-top: 61%;
+        font-size: 35px;
+    }
+    .advisor-head h3:after{
+        right: -3%;
+    }
+    .position-img{
+        width: 100%;
+        height: 350px;
+    }
+    .position{
+        padding-top: 57px;
+        padding-bottom: 53px;
+    }
+    .pro{
+        padding-top: 23px;
+    }
+    .pos-second{
+        flex-direction: column-reverse;
+    }
+    .position-sec{
+        margin-bottom: 38px;
+    }
+    .pro h4{
+        font-size: 25px;
+    }
+    .foot-one p{
+        width: 100%;
+    }
+    .foot-one{
+        text-align: center;
+        padding-bottom: 23px;
+    }
+    .footer-one .foot-two{
+        width: 50%;
+    }
+    .footer-one .foot-three{
+        width: 50%;
+    }
+    .foot-ul a{
+        font-size: 14px;
+    }
+    .foot-three h6{
+        font-size: 14px;
+    }
+    .foot-three p{
+        font-size: 14px;
+    }
+    .right-a{
+        font-size: 14px;
+    }
+    .foot-one p{
+        font-size: 14px;
+    }
+    .business-banner{
+        background-position: 49% 100%;  
+        background-image: url(../images/business-resp.png);
+
+    }
+    .busnss-head h2{
+        font-size: 60px;
+    }
+    .future-head h2{
+        font-size: 29px;
+        line-height: 40px;
+        width: 100%;
+    }
+    .future-head{
+        padding-top:38px;
+    }
+    .future-img{
+        width: 100%;
+        height: 350px;
+    }
+    .future-row{
+        padding-top: 42px;
+        padding-bottom: 15px;
+    }
+    .future-sect{ 
+        padding-top: 30px;
+    }
+    .medicine{
+        background-image: url(../images/bsi-img.png);
+    }
+    .med-para p{
+        padding: 44px 7px;
+        font-size: 20px;
+    }
+    .medicine-up{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+
+
+ 
+    .future-head p{
+        width: 100%;
+    }
+    .diagnosis{
+        height: 440px;
+        background-image: url(../images/diagnosis-resp.png);
+    }
+    .health-para p{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .health-tech{
+        padding: 20px;
+    }
+    .diag{
+        padding-bottom: 71px;
+        width: 92%;
+        margin: 0 auto;
+        margin-top: -218px!important;
+    }
+    .disease-img{
+        width: 100%;
+    }
+    .cluster{
+        margin-top: 35px;
+    }
+    .clust-head h2{
+        font-size: 25px;
+        width: 100%;
+        padding-top: 44px;
+    }
+    .clust-row{
+        padding-top: 21px;
+    }
+    .future-sect p{
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+    /* .future-row{
+        flex-direction: column-reverse;
+    } */
+    .clust-row{
+        flex-direction: column-reverse;
+    }
+    .mrna-banner{
+        background-position: 58% 62%;
+    }
+    .future-row .row-mrna{
+        flex-direction: initial !important;
+    }
+    .row-mrna{
+        padding-top: 47px;
+        padding-bottom: 15px;
+    }
+    .health-back{
+        background-position: 40% 51%;
+    }
+    .health{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .cell-cont{
+        padding-top: 48px;
+    }
+    .mem-cnt{
+        background-size: 76%;
+        background-position: 56% -7%;
+        height:351px;
+        outline: 7px solid rgba(255, 255, 255, .2);
+    }
+  
+    .protein p{
+        padding-top: 29px;
+        width: 15%;
+        font-size: 6px;
+        line-height: 12px;
+        padding-left: 0px;
+    }
+    .intercell p{
+        width: 15%;
+        font-size: 6px;
+        line-height: 12px;
+        padding-top: 29px;
+    }
+    .protein{     
+        position: relative;
+    }
+    .intercell{
+        position: absolute;
+        right: -79%;
+        top: 0;
+    }
+    .cell{
+        height: auto;
+        padding-bottom: 183px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .cell-membrane{
+        margin-top: -137px;
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-bottom: 58px;
+    }
+    .kidney{
+        width: 100%;
+    }
+    .kidney p{
+        font-size:8px;
+        line-height: 15px;
+        bottom: 0px;
+        right: 22px;
+        left: 22px;
+    }
+    .img-h{
+        display: contents;
+    }
+ 
+    .innovate-h{
+        background-color: #50ab98;
+    }
+  
+    .innovation{
+        background-image: url(../images/glob.png);
+    }
+    .btn-get{
+        margin-top: 9px;
+        width: 259px;
+    }
+    .dev{
+        padding-top: 50px;
+    }
+    .dev h3:after{
+        content: url(../images/index.png);
+        left: 42px;
+        top: 37px;
+    }
+    .ground-head h2:after{
+        display: none;
+
+    }
+    .technology:after{
+        content: url(../images/tech.png);
+        position: absolute;
+        left: -76px;
+    
+        top: -2px;
+    }
+    .technology{
+        position: relative;
+    }
+    .groups{
+        position: relative;
+    }
+    .groups:after{
+        content: url(../images/double-one.png);
+        position: absolute;
+        right: 0;
+        left: -65px;
+        top: 0;
+        bottom: 0;   
+    }
+    .vm:after{
+        content: url(../images/double-two.png) !important; 
+        position: absolute; 
+        top: 4px;
+        left: -60px;     
+    }
+    .vm{
+        position: relative;
+    }
+    .mission-vision h2:after{
+        display: none;
+    }
+    .count:before{
+
+        content: '';
+        background: url(../images/double-three.png) !important;
+        height: 978px;
+        width: 2px;
+        background-repeat: no-repeat;
+        background-size: cover; 
+    }
+    .copyright{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-top: 16px;
+    }
+    .count-therapy h3{
+        font-size: 30px;
+    }
+    .about-founder{
+        padding: 15px;
+    }
+    .cnt-two img{
+        margin-top: 14px;
+    }
+    .cnt-four img{
+        margin-top: 15px;
+    }
+    .cnt-five img{
+        margin-top: 12px;
+    }
+    .foot-two{
+        margin-left: 0px;
+    }
+    .foot-three{
+        margin-left: 0px;
+    }
+    .navigation-head li{
+        margin-left: 0px;
+    }
+    .footer-full{
+        background-image:url(../images/foot-resp.png);
+    }
+    .cnt-six h3{
+        padding-top: 16px;
+    }
+    .cnt-one h3{
+        padding-top: 18px;
+    }
+    .ground{
+        background-position: 47% 17%;
+    }
+    .research{
+        background-image:url(../images/resp-two.png);
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu{
+        text-align: center;
+    }
+    .about{
+        background-image:url(../images/about-resp.png);
+    }
+    .founders{
+        background-image:url(../images/back-abt.png);
+        padding-bottom: 33px;
+    }
+    .advisors{
+        background-image:url(../images/resp-about.png);
+        margin-top: -65px;
+    }
+    .advisor-head h3:after{
+        content: url(../images/about-line.png);
+    }
+    .position{
+        background-image: none;
+    }
+    .mrna-banner{
+        background-image:url(../images/mrna-resp.png);
+    }
+    .futures-img{
+        width: 100%;
+    }
+    .ft-hd h2:after{
+        right: 0px;
+        left: 0px;
+    }
+    .aku-banner{
+        background-image:url(../images/aku-resp.png);
+    }
+    .born h2:after{
+       display: none;
+    }
+    .resp-aku:after{
+        content: url(../images/aku-line.png);
+        position: absolute;
+        left: -36px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    .resp-aku{
+        position: relative;
+    }
+    .therapy-span:after{
+        content: url(../images/therapy.png);
+        position: absolute;
+        left: -89px;
+        top: 0;
+        bottom: 0;
+    }
+    .clust-head h2:after{
+        display: none;
+    }
+    .therapy-span{
+        position: relative;
+    }
+    .cluster{
+        background-image:url(../images/need-back.png);
+    }
+    .future-v h2:after{
+        display: none;
+    }
+    .model-span:after{
+        content: url(../images/aku-line.png);
+        position: absolute;
+        left:0px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    .model-span{
+        position: relative;
+    }
+    .innovation .container{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .mrna h3{
+        font-size: 27px;
+        padding-top: 47px;
+    }
+}
+
+
+
+/***************iPhone Landscape*************/
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+    html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.home-banner{
+        background-position: 49% 100%;
+        height: 592px;
+    }
+    .navigation-head{
+        padding-left:0px;
+        padding-right: 0px;
+    }
+    .navbar-brand img{
+        width: 165px;
+    }
+    .apply-btn{
+        display: contents;
+    }
+    .navbar-toggler{
+        padding: 0px;
+    }
+    .apply{
+        width: 90px;
+        height: 35px;
+        margin-right: -136px;
+    }
+    .apply-resp{
+        display: none;
+    }
+    .home-img{
+        height:112px;
+    }
+    .home-ban h4{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .home-ban h2{
+        font-size: 49px;
+        line-height: 65px
+    }
+    .navigation-head a{
+        line-height: 25px;
+    }
+    .home-ban p{
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+    .mission-vision h2{
+        font-size: 38px;
+    }
+    .vision{
+        padding-top: 49px;
+        padding-bottom: 80px;
+    }
+    .mission-vision p{
+        font-size: 18px;
+        width: 100%;
+    }
+    .ground-head h2{
+        font-size: 45px;
+        line-height: 47px;
+        width: 100%;
+    }
+    .ground-head{
+        padding-top: 63px;
+        padding-bottom: 26px;
+    }
+    .count-img{
+        width: 80px;
+        height: 80px;
+        margin-top: 27px;
+    }
+    .cnt-count{
+        display: unset;
+    }
+    .count-therapy p{
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .count-therapy{
+        align-items: unset;
+        padding-bottom: 0px;
+    }
+    .count:before{
+        left: 32px;
+        top: 52px;
+    }
+    .count{
+        padding-top: 0px;
+    }
+    .nick h2{
+        font-size: 25px;
+        line-height: 32px;
+        margin-top: 20px;
+    }
+    .ground{
+        padding-bottom: 50px;
+    }
+    .navbar-nav.ml-auto{
+        margin-top: 35px;
+    }
+    .research-head h2{
+        font-size: 36px;
+        line-height: 42px;
+        width: 100%;    
+    }
+    .research{
+        height: 426px;
+    }
+    .btn-basic{
+        margin-top: 4px;
+    }
+    .research-head{
+        margin-top: 63px;
+    }
+    .upward{
+        margin-top: -9%;
+        padding-bottom: 52px;   
+    }
+    .first-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+    }
+    .upward p{
+        width: 100%;
+    }
+    .second-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+
+    }
+    .footer-full{
+        height: auto;
+    }
+    .foot{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .innovation{
+        height:290px;
+    }
+    .footer-one{
+        padding-top: 43px;
+    }
+    .dev h3{
+        width: 100%;
+    }
+    .dev{
+        margin-top: 28px;
+    }
+.up-row .col-md{
+    width: 45%;
+}
+.up-row {
+    column-gap: 0px;
+}
+.foot-one p{
+    width: 100%;
+}
+.foot-one{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.footer-one .foot-two{
+    width: 50%;
+}
+.footer-one .foot-three{
+    width: 50%;
+}
+.foot-ul a{
+    font-size: 14px;
+}
+.foot-three h6{
+    font-size: 14px;
+}
+.foot-three p{
+    font-size: 14px;
+}
+.right-a{
+    font-size: 14px;
+}
+.foot-one p{
+    font-size: 14px;
+}
+
+.founder-head h3{
+    padding-top: 65px;
+}
+.found-rec{
+    flex-direction: column-reverse;
+}
+.ceo{
+    padding-top: 20px;
+    margin-left: 0px;
+}
+.found-sec{
+    padding-top: 33px;
+    padding-bottom: 48px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.advisors{
+    height: 323px;
+}
+.position{
+    padding-top: 54px;
+    padding-bottom: 51px;
+}
+.pro{
+    padding-top: 25px;
+}
+.pos-second{
+    flex-direction: column-reverse;
+}
+.position-sec{
+    margin-bottom: 40px;
+}
+
+.business-banner{
+    background-position: 49% 100%;
+}
+.busnss-head h2{
+    font-size: 60px;
+}
+.future-v h2:after{
+    right: 157px;
+}
+.future-head h2{
+    font-size: 45px;
+    line-height: 60px;
+    width: 100%;
+}
+.future-head{
+    padding-top: 50px;
+}
+.future-img{
+    width: 100%;
+    height: 350px;
+}
+.future-row{
+    padding-top: 42px;
+    padding-bottom: 41px;
+}
+.future-sect{ 
+    padding-top: 30px;
+}
+.medicine{
+    background-position: 64% 100%;
+}
+.med-para p{
+    padding: 44px 7px;
+    font-size: 20px;
+}
+.medicine-up{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.aku-banner{
+    background-position: 49% 100%;
+}
+.future-head p{
+    width: 100%;
+}
+.diagnosis{
+    background-position: 24% 62%;
+    height: 440px;
+}
+.health-para p{
+    font-size: 18px;
+}
+.health-tech{
+    padding: 20px;
+}
+.diag{
+    padding-bottom: 71px;
+    width: 95%;
+    margin: 0 auto;
+}
+.disease-img{
+    width: 100%;
+}
+.cluster{
+    margin-top: 62px;
+}
+.clust-head h2{
+    font-size: 40px;
+    width: 100%;
+    padding-top: 74px;
+}
+.clust-row{
+    padding-top: 21px;
+    flex-direction: column-reverse;
+}
+.future-sect p{
+    font-size: 16px;
+}
+
+
+.mrna-banner{
+    background-position: 58% 62%;
+}
+.future-row .row-mrna{
+    flex-direction: initial !important;
+}
+.row-mrna{
+    padding-top: 47px;
+    padding-bottom: 0px;
+}
+.health-back{
+    background-position: 40% 51%;
+}
+.health{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cell-cont{
+    padding-top: 48px;
+}
+.mem-cnt{
+    background-size: 84%;
+    background-position: 65% 3%;
+    height:526px;
+}
+
+.protein p{
+    padding-top: 29px;
+    width: 15%;
+    font-size: 6px;
+    line-height: 12px;
+    padding-left: 0px;
+}
+.intercell p{
+    width: 15%;
+    font-size: 6px;
+    line-height: 12px;
+    padding-top: 29px;
+}
+.protein{     
+    position: relative;
+}
+.intercell{
+    position: absolute;
+    right: -79%;
+    top: 0;
+}
+.cell{
+    height: auto;
+    padding-bottom: 225px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.cell-membrane{
+    margin-top: -168px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 58px;
+}
+.kidney p{
+    font-size: 12px;
+    right: 37px;
+}
+.kidney{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+}
+.count:before{
+    content: '';
+    background: url(../images/double-three.png) !important;
+    height: 956px;
+    width: 2px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.img-h{
+    display: contents;
+}
+
+.innovate-h{
+    background-color: #50ab98;
+}
+.dev:before{
+    right: 8%;
+    top: 185px;
+}
+.hide-img{
+    width: 100%;
+}
+.ground-head h2:after{
+    left: 44px;
+    top: 146px;
+}
+.dev h3:after{
+    left: -9px;
+}
+.founder-head h3:after{
+    right: 29%;
+    top: 71px;
+}
+.about-img{
+    width: 69%;
+    align-items: left;
+    text-align: left;
+    display: flex;
+}
+.about-founder{
+    padding: 15px;
+}
+.count-img{
+    margin-top: 25px;
+    height: 74px;
+}
+.cnt-two img{
+    margin-top: 24px;
+}
+.cnt-four img{
+    margin-top: 23px;
+}
+.cnt-five img{
+    margin-top: 21px;
+}
+.foot-two{
+    margin-left: 0px;
+}
+.foot-three{
+    margin-left: 0px;
+}
+.navigation-head li{
+    margin-left: 0px;
+}
+.mission-vision h2:after{
+    left: 0px;
+}
+.nick a::after{
+    top: 0px;
+}
+.copy{
+    margin-top: 17px;
+}
+.copyright{
+    padding-top: 17px;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    text-align: center;
+}
+.cnt-three img{
+    margin-top: 20px;
+}
+.futures-img{
+    width: 100%;
+}
+.therapy-span:after{
+    content: url(../images/therapy.png);
+    position: absolute;
+    left: 0px;
+    top: 0;
+    bottom: 0;
+}
+.clust-head h2:after{
+    display: none;
+}
+.therapy-span{
+    position: relative;
+}
+.nick a::before{
+    display: none;
+}
+.nick a{
+    border-bottom: 1px solid #50ab98;
+}
+.ft-hd h2:after{
+    right: 0;
+    left: 0;
+}
+.innovation .container{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.innovation {
+    background-image: url(../images/glob.png);
+    height: 600px;
+    align-items:unset;
+}
+.about-head h2{
+    font-size: 65px;
+}
+
+
+
+
+}
+
+
+/********************************************/
+
+
+
+
+
+/********************************************/
+
+
+/***************custom breakpoints**************/
+/****************iPad Portrait***************/
+
+@media only screen and (max-width: 985px) and (min-width: 768px) {
+	html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.home-banner{
+        background-position: 49% 100%;
+    }
+    .navigation-head{
+        padding-left:0px;
+        padding-right: 0px;
+    }
+    .navbar-brand img{
+        width: 165px;
+    }
+    .apply-btn{
+        display: contents;
+    }
+    .navbar-toggler{
+        padding: 0px;
+    }
+    .apply{
+        width: 90px;
+        height: 35px;
+        margin-right:-317px;
+    }
+    .apply-resp{
+        display: none;
+    }
+    .home-img{
+        height:112px;
+    }
+    .home-ban h4{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .home-ban h2{
+        font-size: 49px;
+        line-height: 65px
+    }
+    .home-ban p{
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+    .mission-vision h2{
+        font-size: 38px;
+    }
+    .navigation-head a{
+        line-height: 25px;
+    }
+    .vision{
+        padding-top: 65px;
+        padding-bottom: 80px;
+    }
+    .mission-vision p{
+        font-size: 18px;
+        width: 100%;
+    }
+    .ground-head h2{
+        font-size: 35px;
+        line-height: 47px;
+        width: 100%;
+    }
+    .ground-head{
+        padding-top: 63px;
+        padding-bottom: 26px;
+    }
+    .count-img{
+        width: 80px;
+        height: 73px;
+        margin-top: 27px;
+        object-fit: contain;
+    }
+  
+    .count-therapy p{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .count-therapy{
+        align-items: unset;
+        padding-bottom: 0px;
+    }
+    .count:before{
+        left: 33px;
+        top: 93px;
+    }
+    .count .col-md-11{
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    .count{
+        padding-top: 0px;
+    }
+    .nick h2{
+        font-size: 30px;
+        line-height: 44px;
+        margin-top: 20px;
+    }
+    .ground{
+        padding-bottom: 50px;
+    }
+    .navbar-nav.ml-auto{
+        margin-top: 35px;
+    }
+    .research-head h2{
+        font-size: 36px;
+        line-height: 42px;
+        width: 100%;    
+    }
+    .research{
+        height: 610px;
+    }
+    .btn-basic{
+        margin-top: 4px;
+    }
+    .research-head{
+        margin-top: 237px;
+    }
+    .upward{
+        margin-top: -6%;    
+    }
+    .first-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+    }
+    .upward p{
+        width: 100%;
+    }
+    .second-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+
+    }
+    .footer-full{
+        height: auto;
+    }
+    .foot{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .innovation{
+        background-position: 49% 92%;
+        align-items: unset;
+    }
+    .footer-one{
+        padding-top: 43px;
+    }
+    .dev h3{
+        width:50%;
+    }
+    .dev{
+        margin-top: 78px;
+    }
+.up-row .col-md{
+    width: 45%;
+}
+.up-row {
+    column-gap: 0px;
+}
+
+
+.about-img{
+    width:55%;
+}
+.founder-head h3{
+    padding-top: 44px;
+}
+.founder-head{
+    padding-bottom: 48px;
+}
+.found-rec{
+    flex-direction: column-reverse;
+
+}
+.founders{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.found-sec{
+    display: unset;
+}
+.ceo{
+    padding-top: 30px;
+    margin-left:0px;
+}
+.yves{
+    text-align: left;
+    padding: 0px;
+}
+.jean{
+    padding: 0px;
+}
+.founders{
+    padding-bottom: 30px;
+}
+.position{
+    padding-top: 72px;
+    padding-bottom: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.pos-second{
+    flex-direction: column-reverse;
+}
+.pro{
+    padding-top: 30px;
+}
+.position-sec{
+    margin-bottom: 44px;
+}
+
+.business-banner{
+    background-position: 49% 100%;
+}
+.busnss-head h2{
+    font-size: 60px;
+}
+.future-head h2{
+    font-size: 43px;
+    line-height: 60px;
+    width: 100%;
+}
+.future-head{
+    padding-top: 50px;
+}
+.future-img{
+    width: 100%;
+    height: 350px;
+}
+.future-row{
+    padding-top: 42px;
+    padding-bottom: 41px;
+    column-gap: 22px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.tech{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.dis{
+    column-gap: 25px;
+}
+.future-sect{ 
+    padding-top: 30px;
+}
+.medicine{
+    background-position: 64% 100%;
+    height: 451px;
+}
+.med-para p{
+    padding: 44px 7px;
+    font-size: 20px;
+}
+.medicine-up{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+.aku-banner{
+    background-position: 49% 100%;
+}
+.future-head p{
+    width: 100%;
+}
+.diagnosis{
+    background-position: 24% 62%;
+    height: 440px;
+}
+.health-para p{
+    font-size: 18px;
+}
+.health-tech{
+    padding: 20px;
+}
+.diag{
+    padding-bottom: 71px;
+    width: 95%;
+    margin: 0 auto;
+}
+.disease-img{
+    width: 100%;
+}
+.cluster{
+    margin-top: 62px;
+}
+.clust-head h2{
+    font-size: 40px;
+    width: 100%;
+    padding-top: 74px;
+}
+.clust-row{
+    padding-top: 21px;
+    column-gap: 25px;
+}
+.future-sect p{
+    font-size: 16px;
+}
+
+
+.mrna-banner{
+    background-position: 58% 62%;
+}
+.future-row .row-mrna{
+    flex-direction: initial !important;
+}
+.row-mrna{
+    padding-top: 47px;
+    padding-bottom: 30px;
+    column-gap: 8px;
+}
+.health-back{
+    background-position: 40% 51%;
+}
+.health{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cell-cont{
+    padding-top: 48px;
+}
+.mem-cnt{
+    background-size: 84%;
+    background-position: 65% 3%;
+    height:517px;
+}
+.kidney p{
+    font-size: 16px;
+    right: 32px;
+    left: 32px;
+}
+.protein p{
+    padding-top: 29px;
+    width: 100%;
+    font-size: 10px;
+    line-height: 12px;
+    padding-left: 0px;
+}
+.intercell p{
+    width: 100%;
+    font-size: 10px;
+    line-height: 12px;
+    padding-top: 29px;
+}
+.protein{     
+    position: relative;
+}
+.intercell{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.cell{
+    height: auto;
+    padding-bottom: 225px;
+}
+.cell-row{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cell-membrane{
+    margin-top: -181px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 58px;
+}
+.dev h3:after{
+    left: 71px;
+    top: 104px;
+}
+.ground-head h2:after{
+    left: 17px;
+    top: 100px;
+}
+.founder-head h3:after{
+    right: 32%;
+    top: 49px;
+}
+.br-mrna {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cnt-two img{
+    margin-top: 14px;
+}
+.cnt-four img{
+    margin-top: 15px;
+}
+.cnt-five img{
+    margin-top: 12px;
+}
+.cnt-six img{
+    margin-top: 3px;
+    
+}
+.navigation-head li{
+    margin-left: 0px;
+}
+.copyright{
+    padding-top: 13px;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    text-align: center;
+}
+.futures-img{
+    width: 100%;
+}
+.ft-hd h2:after{
+    right: 0;
+    left: 85px;
+}
+
+.born h2:after{
+    display: none;
+ }
+ .resp-aku:after{
+     content: url(../images/aku-line.png);
+     position: absolute;
+     left: 0px;
+     right: 0;
+     top: 0;
+     bottom: 0;
+ }
+ .resp-aku{
+     position: relative;
+ }
+ .therapy-span:after{
+     content: url(../images/therapy.png);
+     position: absolute;
+     left: 0px;
+     top: 0;
+     bottom: 0;
+ }
+ .clust-head h2:after{
+     display: none;
+ }
+ .therapy-span{
+     position: relative;
+ }
+
+ .nick a::before{
+     display: none;
+ }
+ .nick a{
+     border-bottom: 1px solid #50ab98;
+ }
+ .kidney{
+    width: 100%;
+ }
+ .innovation .container{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.mission-vision h2:after{
+    left: 0px;
+}
+.count .col-md-1{
+    display: none;
+}
+.br-mrna .col-md{
+    width: 100% !important;
+    flex-basis: auto;
+}
+}
+
+
+/********************************************/
+
+
+/************** iPad Landscape **************/
+
+@media only screen and ( max-width: 1024px ) and (min-width: 986px){
+	html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.home-banner{
+        background-position: 49% 100%;
+    }
+    .navigation-head{
+        padding-left:0px;
+        padding-right: 0px;
+    }
+    .navbar-brand img{
+        width: 165px;
+    }
+
+    .navbar-toggler{
+        padding: 0px;
+    }
+    .apply{
+        width: 90px;
+        height: 35px;
+    }
+  
+    .home-img{
+        height:112px;
+    }
+    .home-ban h4{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .home-ban h2{
+        font-size: 49px;
+        line-height: 65px
+    }
+    .home-ban p{
+        font-size: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+    .mission-vision h2{
+        font-size: 38px;
+    }
+    .mission-vision h2:after{
+        left: 17px;
+    }
+    .vision{
+        padding-top: 63px;
+        padding-bottom: 80px;
+    }
+    .mission-vision p{
+        font-size: 18px;
+        width: 100%;
+    }
+    .ground-head h2{
+        font-size: 35px;
+        line-height: 47px;
+        width: 77%;
+    }
+    .ground-head{
+        padding-top: 63px;
+        padding-bottom: 26px;
+    }
+    .count-img{
+        width: 80px;
+        height: 80px;
+        margin-top: 27px;
+        object-fit: contain;
+    }
+ 
+    .count-therapy p{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .count-therapy{
+        align-items: unset;
+        padding-bottom: 20px;
+    }
+    .count:before{
+        left:34px;
+        top: 66px;
+    }
+    .count{
+        padding-top: 0px;
+    }
+    .nick h2{
+        font-size: 26px;
+        line-height: 43px;
+        margin-top: 20px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .nick a::before{
+        display: none;
+    }
+    .nick a{
+        border-bottom: 2px solid #50ab98;
+    }
+    .ground{
+        padding-bottom: 50px;
+    }
+    .count .col-md-11{
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+  
+    .research-head h2{
+        font-size: 36px;
+        line-height: 42px;
+        width: 100%;    
+    }
+    .research{
+        height: 610px;
+    }
+    .btn-basic{
+        margin-top: 4px;
+    }
+    .research-head{
+        margin-top: 237px;
+    }
+    .upward{
+        margin-top: -6%;    
+    }
+    .first-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+    }
+    .upward p{
+        width: 100%;
+    }
+    .second-sect{
+        margin-left: 15px;
+        margin-right: 15px;
+        padding-left: 28px;
+
+    }
+    .footer-full{
+        height: auto;
+    }
+    .foot{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .innovation{
+        background-position: 43% 84%;
+        align-items: unset;
+    }
+    .footer-one{
+        padding-top: 43px;
+    }
+    .dev h3{
+        width: 53%;
+    }
+    .dev{
+        margin-top: 64px;
+    }
+.up-row .col-md{
+    width: 45%;
+}
+.up-row {
+    column-gap: 0px;
+}
+.about-img{
+    width: 100%;
+}
+.founder-head h3{
+    padding-top: 63px;
+}
+.position-img{
+    width: 100%;
+}
+.position{
+    padding-top: 78px;
+    padding-bottom: 66px; 
+}
+.business-banner{
+    background-position: 49% 100%;
+}
+.busnss-head h2{
+    font-size: 60px;
+}
+.future-head h2{
+    font-size: 38px;
+    line-height: 45px;
+    width: 100%;
+}
+.future-head{
+    padding-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.future-img{
+    width: 100%;
+    height: 350px;
+}
+.future-row{
+    padding-top: 42px;
+    padding-bottom: 41px;
+}
+.future-sect{ 
+    padding-top: 30px;
+}
+.medicine{
+    background-position: 64% 100%;
+}
+.med-para p{
+    padding: 44px 7px;
+    font-size: 20px;
+}
+.medicine-up{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.aku-banner{
+    background-position: 49% 100%;
+}
+.future-head p{
+    width: 100%;
+}
+.diagnosis{
+    background-position: 24% 62%;
+    height: 440px;
+}
+.health-para p{
+    font-size: 18px;
+}
+.health-tech{
+    padding: 20px;
+}
+.diag{
+    padding-bottom: 71px;
+    width: 95%;
+    margin: 0 auto;
+}
+.disease-img{
+    width: 100%;
+}
+.cluster{
+    margin-top: 62px;
+}
+.clust-head h2{
+    font-size: 40px;
+    width: 100%;
+    padding-top: 74px;
+}
+.clust-row{
+    padding-top: 21px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.future-sect p{
+    font-size: 16px;
+}
+
+.mrna-banner{
+    background-position: 58% 62%;
+}
+.future-row .row-mrna{
+    flex-direction: initial !important;
+}
+.row-mrna{
+    padding-top: 47px;
+    padding-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.health-back{
+    background-position: 40% 51%;
+}
+.health{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cell-cont{
+    padding-top: 48px;
+}
+.mem-cnt{
+    background-size: 84%;
+    background-position: 65% 3%;
+    height: 646px;
+}
+
+.protein p{
+    padding-top: 29px;
+    width: 100%;
+    font-size: 11px;
+    line-height: 18px;
+    padding-left: 0px;
+}
+.intercell p{
+    width: 100%;
+    font-size: 11px;
+    line-height: 18px;
+    padding-top: 29px;
+}
+.protein{     
+    position: relative;
+}
+.intercell{
+    position: absolute;
+    right: 0px;
+    top: 0;
+}
+.cell{
+    height: auto;
+    padding-bottom: 359px;
+}
+.cell-row{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.cell-membrane{
+    margin-top:-268px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-bottom: 58px;
+}
+.founder-head h3:after{
+    right: 36%;
+    top: 67px;
+}
+.ground-head h2:after{
+    left: 0;
+    top: 99px;
+}
+
+.cnt-two img{
+    margin-top: 14px;
+}
+.cnt-four img{
+    margin-top: 15px;
+}
+.cnt-five img{
+    margin-top: 12px;
+}
+.cnt-six img{
+    margin-top: 3px;
+    
+}
+.navigation-head li{
+    margin-left: 31px;
+}
+.copyright{
+    padding-top: 15px;
+}
+.futures-img{
+    width: 100%;
+}
+.ft-hd h2:after{
+    right: -46px;
+    left: 0;
+}
+
+
+.born h2:after{
+    display: none;
+ }
+ .resp-aku:after{
+     content: url(../images/aku-line.png);
+     position: absolute;
+     left: 0px;
+     right: 0;
+     top: 0;
+     bottom: 0;
+ }
+ .resp-aku{
+     position: relative;
+ }
+ .therapy-span:after{
+     content: url(../images/therapy.png);
+     position: absolute;
+     left: 0px;
+     top: 0;
+     bottom: 0;
+ }
+ .clust-head h2:after{
+     display: none;
+ }
+ .therapy-span{
+     position: relative;
+ }
+
+.future-row{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.dis{
+    margin-left: 15px;
+    margin-right: 15px; 
+}
+.future-v h2:after{
+    right: 93px;
+    top: 8px;
+}
+.navigation-head li{
+    margin-left: 28px !important;
+}
+.innovation .container{
+    margin-left: 15px;
+    margin-right: 15px;
+} 
+.ceo{
+    margin-left: 0px;
+}
+.found-rec{
+    column-gap: 44px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.found-rec .col-md{
+    padding: 0px;
+}
+.found-sec{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.position-sec{
+    column-gap: 45px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.position-sec .col-md {
+    padding: 0px;
+}
+.position-sects{
+    column-gap: 45px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.position-sects .col-md {
+    padding: 0px;
+}
+.section-propara{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+}
+
+
+/********************************************/
+
+
+@media only screen and (max-width: 1280px) and (min-width: 1252px){
+    .navigation-head{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+@media only screen and (max-width: 1345px) and (min-width: 1281px){
+    .navigation-head{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+@media only screen and (max-width: 6000px) and (min-width: 4001px){
+ 
+
+    .dev:before{
+        right: 16%;
+    }
+    .about{
+        height: 570px;
+    }
+    .mrna-banner{
+        height: 570px;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width: 1480px) and (min-width: 1000px){
+    .navigation-head{
+        padding-left: 7px;
+        padding-right: 2px;
+    }
+  
+}
+@media only screen and (max-width: 9000px) and (min-width: 6001px){
+
+   
+
+    .about{
+        height: 699px;
+    }
+    .mrna-banner{
+        height: 699px;  
+    }
+}
+@media only screen and (max-width: 1000px) and (min-width: 995px){
+    .navigation-head li{
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width: 1025px) and (min-width: 1001px){
+    .navigation-head li{
+        margin-left: 13px;
+    }
+    .navigation-head a{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 1155px) and (min-width: 1026px){
+    .navigation-head li{
+        margin-left: 26px;
+    }
+
+    .navbar-brand{
+        margin-right: 0px;
+    }
+    .navigation-head a{
+        font-size: 13px;
+    }
+
+}
+@media only screen and (max-width: 1255px) and (min-width: 1025px){
+    .up-row{
+        padding: 15px;
+        column-gap: 30px;
+    }
+    .footer-one{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .count-therapy p{
+        font-size: 23px;
+    }
+    .count:before{
+        left: 12.5%;
+    }
+    .nick h2{
+        font-size: 36px;
+    }
+    .about-founder{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .future{
+        overflow: hidden;
+    }
+}
+@media only screen and (max-width: 555px) and (min-width: 480px){
+    .mrna{
+        display: block;
+    }
+    .up-row .col-md{
+        width: 43%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+  
+}
+@media only screen and (max-width: 730px) and (min-width: 560px){
+    .up-row .col-md{
+        width: 44%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .mrna{
+        display: block;
+    }
+}
+@media only screen and (max-width: 770px) and (min-width: 731px){
+    .up-row .col-md{
+        width: 45%;
+        margin-left: 19px;
+        margin-right: 15px;
+    }
+    .mrna{
+        display: block;
+    }
+}
+@media only screen and (max-width: 1160px) and (min-width: 1155px){
+    .navigation-head li{
+        margin-left: 30px;
+    }
+}
+@media only screen and (max-width: 991px) and (min-width: 986px){
+    .apply-btn {
+        display: contents;
+    }
+}
+@media only screen and (max-width: 500px) and (min-width: 480px){
+    .navbar-toggler.navbar-toggle.collapsed{
+        margin-left: 42px;
+    }
+}
+@media only screen and (max-width: 1280px) and (min-width: 1225px){
+    .upward .container{
+        max-width: 95%;
+    }
+}
+@media only screen and (width: 320px){
+    .count:before{
+        height: 1190px;
+    }
+    .ground-head h2:after{
+        content: url(../images/vision.png);
+        position: absolute;
+        right: 0;
+    }
+    .ground-head h2{
+        position: relative;
+    }
+    .mission-vision h2{
+        font-size: 26px;
+    }
+    .vm:after{
+        left: -82px;
+    }
+    .mem-cnt{
+        height: 311px;
+    }
+}
+@media only screen and (width: 568px){
+    .count:before{
+        height: 1038px;
+    }
+    .ground-head h2:after{
+        left: 77px;
+        top: 197px;
+    }
+}
+@media only screen and (width: 360px){
+    .kidney p{
+        bottom: 12px;
+    }
+    .count:before{
+        height: 1058px;
+    }
+    .ground-head h2{
+        font-size: 22px;
+    }
+  
+}
+@media only screen and (width: 640px){
+    .count:before{
+        height: 1002px;
+    }
+}
+@media only screen and (max-width: 1280px) and (min-width: 1255px){
+    .footer-one{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .dev{
+        margin-left: 15px;
+    }
+}
+@media only screen and (max-width: 1260px) and (min-width: 1025px){
+    .dev{
+        margin-left: 15px;
+    }
+    .row-mrna{
+        margin-left: 15px;
+        margin-right: 15px;
+        column-gap: 35px;
+    }
+    .health{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .cell-row{
+        margin-left: 15px;
+        margin-right: 15px; 
+    }
+    .cell-membrane{
+        margin-top: -402px!important;
+        padding-bottom: 110px;
+        width: 92%;
+        margin: 0 auto;
+    }
+    .mem-cnt{
+        background-position: 86% 7%;
+        background-size: 100%;
+    }
+}
+@media screen and (max-width: 990px){
+    .kidney p{
+        bottom: 0;
+        margin-bottom: 0px;
+    }
+    .mem-cnt{
+        background-position:center;
+        background-size: 100%;
+        background-position: 100%;
+  
+    }
+ 
+}
+@media only screen and (max-width: 1280px) and (min-width: 1025px){
+    .medicine-up{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .future-img{
+        width: 100%;
+    }
+    .future-row{
+        column-gap: 17px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .future-vv{
+        overflow: hidden;
+    }
+    .founders{
+        overflow: hidden;  
+    }
+    .position{
+        overflow: hidden; 
+    }
+}

@@ -1,0 +1,40 @@
+/************** iPad Landscape **************/
+
+@media only screen and (max-width: 1024px) and(min-width: 986px) {
+   
+}
+
+
+/********************************************/
+
+
+/****************iPad Portrait***************/
+
+@media only screen and (max-width: 985px) and (min-width: 768px) {}
+
+
+/********************************************/
+
+
+/***************iPhone Landscape*************/
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {}
+
+
+/********************************************/
+
+
+/***************iPhone Portrait**************/
+
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+    html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+
+/********************************************/
+
+
+/***************custom breakpoints**************/
